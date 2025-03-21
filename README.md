@@ -27,7 +27,7 @@ A simple Todo application built with React.
 
 Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 
 Open your browser and navigate to `http://localhost:3000`.
