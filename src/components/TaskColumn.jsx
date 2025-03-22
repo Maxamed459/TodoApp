@@ -1,4 +1,5 @@
 import React from 'react'
+import TaskCard from './TaskCard'
 // import Todo from '../assets/direct-hit.png'
 
 const TaskColumn = ({icon, title}) => {
@@ -8,6 +9,8 @@ const TaskColumn = ({icon, title}) => {
         <h1 className='flex items-center font-medium text-[20px]'>
         <img src={icon} alt="icon" className='w-[28px]' /> {title}
         </h1>
+
+        <TaskCard />
     </section>
   )
 }
