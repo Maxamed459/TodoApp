@@ -4,7 +4,7 @@ A simple Todo application built with React.
 
 ## Demo
 
-Check out the live demo of the application [here](https://your-demo-link.com).
+Check out the live demo of the application [here](https://todo-app-virid-omega-45.vercel.app/).
 
 ## Features
 
