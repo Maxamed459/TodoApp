@@ -1,7 +1,8 @@
-import React from 'react'
+import React, {useState} from 'react'
 import Tag from './Tag'
 
 const Header = () => {
+    const [first, setfirst] = useState(second)
   return (
     <header className='w-full h-[150px] flex items-center justify-center border-b-1 border-solid border-gray-300'>
         <form className='w-[60%] space-y-5'>
