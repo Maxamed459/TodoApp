@@ -8,7 +8,7 @@ const TaskCard = () => {
         <p className='text-[18px] font-[600] mb-[15px]'>This is sample text.</p>
 
         <div className='flex justify-between items-center'>
-            <div>
+            <div className='space-x-2'>
                 <Tag tag="HTML"/>
                 <Tag tag="CSS"/>
             </div>
